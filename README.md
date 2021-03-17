@@ -1,1 +1,1 @@
-This was my initial python project during the AWS re/Start program. It utilises while loops, elif and else statements, and presents the user with a yes/no prompt, with the third option to exit the script.
+This was my initial python project that I created during the AWS re/Start program. It utilises while loops, elif and else statements, and presents the user with a yes/no prompt, with the third option to exit the script.
